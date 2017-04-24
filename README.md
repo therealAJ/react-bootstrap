@@ -8,7 +8,7 @@
   <a><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-> a cli for downloading external pdf's (for lazy people like me)
+> builds a robust React workspace quick and easy, letting you focus on development rather than set-up
 
 <br>
 
