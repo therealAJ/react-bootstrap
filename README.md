@@ -12,6 +12,13 @@
 
 <br>
 
+## Requirements 
+
+`node`
+<br>
+`npm`
+
+
 ## Install
 
 ```sh
@@ -22,5 +29,11 @@ $ git clone https://github.com/therealAJ/react-bootstrap
 
 ```sh
 $ npm install
+# fetchs and installs dependencies 
 $ npm start
+# Server spins up at http://localhost:3000
 ```
+
+## Development
+Additional components and styles can be created under the `/src` and `/styles` routes respectively. 
+Changes will reflect automatically after saving the workspace, updating at `localhost:3000`
