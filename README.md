@@ -12,6 +12,8 @@
 
 <br>
 
+![Alt text](https://raw.githubusercontent.com/therealAJ/react-bootstrap/master/demo.gif)
+
 ## Requirements 
 
 `node`
